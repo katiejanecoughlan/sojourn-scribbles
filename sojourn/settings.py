@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-n!e3t0oe@v6@!n7uxy$aq3o0xtzv2r&8x#45(m3k+0$)=%huzv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-katiejaneco-sojournscri-5f7faddzya4.ws-eu108.gitpod.io', 'https://sojourn-scribbles-df835649974f.herokuapp.com/']
+ALLOWED_HOSTS = ['8000-katiejaneco-sojournscri-5f7faddzya4.ws-eu108.gitpod.io', 'https://git.heroku.com/sojourn-scribbles.git']
 
 
 # Application definition
